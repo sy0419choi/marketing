@@ -1,4 +1,4 @@
 # marketing
 emarket marketing api service source repository
 
-first edit
+BranchB 수정
