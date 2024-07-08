@@ -1,4 +1,4 @@
 # marketing
 emarket marketing api service source repository
 
-BranchA 수정
+BranchB 작성 후 BranchA 수정
